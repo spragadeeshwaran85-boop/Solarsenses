@@ -137,8 +137,8 @@ High temp + low output →  🟠 Possible hot spot
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/solarsense.git
-cd solarsense
+git clone https://github.com/spragadeeshwaran85-boop/solarsense.git
+cd solarsenses
 
 # Install backend dependencies
 pip install -r requirements.txt
